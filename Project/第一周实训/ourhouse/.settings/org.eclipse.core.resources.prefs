@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/webtest/core/BaseTest.java=UTF-8
+encoding//src/com/webtest/core/WebDriverEngine.java=UTF-8
+encoding//src/com/webtest/mail/MailUtil.java=UTF-8
+encoding//src/templates/overview.ftl=UTF-8
+encoding//src/www/ourhouse/testng_xslt/JavaMailTestListener.java=UTF-8
+encoding//src/www/ourhouse/testng_xslt/SendMail.java=UTF-8
