@@ -1,0 +1,6 @@
+pid	value	title	detail	click
+楼盘	rent	aa	detail	2
+出租	sale	广告2	detail	3
+出租	news	广告，	deatil--	8
+楼盘	rent	广告00	e	99
+出租	sale	广告abc	de	100

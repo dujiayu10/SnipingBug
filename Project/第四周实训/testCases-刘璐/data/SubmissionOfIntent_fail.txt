@@ -1,0 +1,2 @@
+type1	type2	type3	type4	name	phone
+fm_ntype_5	fm_ntype_7	fm_ntype_8	fm_ntype_9	0	111

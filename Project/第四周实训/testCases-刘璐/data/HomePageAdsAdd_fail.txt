@@ -1,0 +1,6 @@
+pid	value	title	detail	click
+楼盘	sale	a	detail	2
+出租	sale	/	detail	3
+出租	rent	'	-	8
+aa	news	0	e	99
+name	news	9	de	100

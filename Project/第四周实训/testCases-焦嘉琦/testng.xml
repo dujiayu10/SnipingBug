@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="s1" verbose="1" parallel="none">
+	<listeners>
+		<listener class-name="com.webtest.freemarker.GenerateReporter"></listener>
+	</listeners>
+	<test name="t2" preserve-order="true">
+		<classes>
+			<class name="com.webtest.testCases.AdministratorsTest"/>	
+			<class name="com.webtest.testCases.BatchOperationAddTest"/>
+			<class name="com.webtest.testCases.BatchOperationTest"/>
+			<class name="com.webtest.testCases.CategoryManagementTest"/>
+			<class name="com.webtest.testCases.ColumnManagementTest"/>
+			<class name="com.webtest.testCases.DynamicManagementAddTest"/>
+			<class name="com.webtest.testCases.DynamicManagementTest"/>
+			<class name="com.webtest.testCases.FrontTest"/>
+			<class name="com.webtest.testCases.GradePowerTest"/>
+			<class name="com.webtest.testCases.MenuNavigationTest"/>
+			<class name="com.webtest.testCases.ModuleErectionTest"/>
+		</classes>
+	</test>
+</suite>
