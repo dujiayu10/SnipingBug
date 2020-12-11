@@ -1,4 +1,4 @@
 d:
-cd Java\Antdemo
+cd Java\Ourhouse
 call ant
 pause on
