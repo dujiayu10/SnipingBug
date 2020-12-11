@@ -32,7 +32,8 @@ import com.webtest.core.ElementFinder;
 import com.webtest.core.WebDriverEngine;
 import com.webtest.dataprovider.NSDataProvider;
 import com.webtest.utils.ReadProperties;
-
+//刘璐
+//主页-房产设置、广告、前台-二手房
 public class TestAll extends BaseTest{
 	
 	@Test(priority = 1)
