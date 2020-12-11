@@ -44,7 +44,7 @@
         <testng classpathref="classpath" outputdir="${report}/${nowstamp}" failureproperty="test.failed">
             <!--xml test suite file -->
             <xmlfileset dir="${suite}">
-                <include name="testng1.xml" />
+                <include name="testng.xml" />
             </xmlfileset>
         </testng>
  
